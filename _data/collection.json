@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "音频数据库" ] },
+    "summary": { "en": [ "以华东师范大学图书馆教授说书音频为基础，提供音频数据" ] },
+    "items": [
+    ]
+}
