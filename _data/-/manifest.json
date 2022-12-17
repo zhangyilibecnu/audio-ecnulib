@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zhangyilibecnu.github.io/audio-ecnulib/-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "俞立中讲苏州河治理" ] },
+    "items": [
+      {
+        "id": "https://zhangyilibecnu.github.io/audio-ecnulib/-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 317,
+        "items": [
+          {
+            "id": "https://zhangyilibecnu.github.io/audio-ecnulib/-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zhangyilibecnu.github.io/audio-ecnulib/-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://res.wx.qq.com/voice/getvoice?mediaid=MzA4NDYzMzkwOF8yNjUyMzcwNjkx",
+                    "duration": 317
+                },
+                "target": "https://zhangyilibecnu.github.io/audio-ecnulib/-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
